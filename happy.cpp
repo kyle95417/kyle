@@ -9,6 +9,6 @@ using namespace std;
 
 
 int main(){
-    cout << "fuck world";
+    cout << "shit world";
     return 0;
 }
